@@ -16,6 +16,5 @@ public class AverageOfTwoNumbers {
         double average = (double)(first + second)/2;
         
         System.out.println("The average is " + average);
-
     }
 }
